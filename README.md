@@ -8,7 +8,7 @@ An alternative to using libraries.
 [Premkishan](https://github.com/premkishan2009)
 
 ## License
-Copyright {2017} {Premkishan}
+Copyright 2017 Premkishan Edhara
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
