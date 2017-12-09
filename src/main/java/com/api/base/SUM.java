@@ -1,4 +1,4 @@
-package math;
+package com.api.base;
 
 public class SUM {
 

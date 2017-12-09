@@ -1,4 +1,4 @@
-package sorting;
+package com.api.sorting;
 
 import java.util.List;
 
